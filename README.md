@@ -70,6 +70,26 @@ This tutorial is designed for:
 - Troubleshooting section for common issues
 - Extensive resource links for further learning
 
+## Real-World Examples
+
+### Deep Learning Project Examples
+
+Looking for practical examples? Check out our **platform-specific guides** for setting up Deep Learning projects with Git:
+
+- **[Linux Examples](examples/linux/DL_PROJECT_SETUP.md)** - Complete guide for Ubuntu, Debian, Fedora, Arch, and more
+- **[Windows Examples](examples/windows/DL_PROJECT_SETUP.md)** - PowerShell, Command Prompt, and Git Bash workflows
+- **[macOS Examples](examples/macos/DL_PROJECT_SETUP.md)** - Including Apple Silicon (M1/M2/M3) optimizations
+
+Each guide includes:
+- Environment setup (Python, PyTorch/TensorFlow)
+- Project structure for DL projects
+- Managing datasets and models with Git
+- Experiment tracking with branches
+- Collaboration workflows
+- Platform-specific best practices
+
+**[View All Examples →](examples/README.md)**
+
 ## Quick Command Reference
 
 ### Essential Commands
